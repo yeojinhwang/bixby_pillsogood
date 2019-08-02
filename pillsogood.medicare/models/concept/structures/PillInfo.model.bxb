@@ -1,0 +1,19 @@
+structure (PillInfo) {
+  description (의약품 낱알식별정보조회)
+  property (name) {
+    type (Name)
+    min (Optional) max (Many)
+  }
+  property (image) {
+    type (Image)
+    min (Optional) max (Many)
+  }
+  property (class) {
+    type (Class)
+    min (Optional) max (Many)
+  }
+  property (chart) {
+    type (Chart)
+    min (Optional) max (Many)
+  }
+}

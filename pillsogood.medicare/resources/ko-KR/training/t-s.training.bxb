@@ -1,0 +1,20 @@
+train (t-sepjcx62huq6idy0m7hp7azg0) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]과 (함께)[v:Mix:mix] 먹으면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343425333)
+}
+train (t-sht6cil14a1ei2slri3flnqzt) {
+  utterance ("[g:GetCombined] 두개를 (함께)[v:Mix:mix] 먹어도 돼? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341976056)
+}
+train (t-slg7mr4evsxtf3hpx2ursp1z2) {
+  utterance ("[g:GetCombined] (함께)[v:Mix:mix] 먹어도 돼? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341980971)
+}
+train (t-spxvx74av6w8zs5bo749d34d2) {
+  utterance ("[g:GetOld] (할아버지)[v:Target:old]가 (타이레놀)[v:Name] 먹어도 되?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561825052215)
+}

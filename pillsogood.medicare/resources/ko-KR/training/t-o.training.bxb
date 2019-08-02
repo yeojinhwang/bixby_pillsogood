@@ -1,0 +1,10 @@
+train (t-oeqy46jxzibmjh1er9r1oozk3) {
+  utterance ("[g:GetCombinedList] (심바스틴정)[v:Name]과 (함께)[v:Mix:mix] 먹으면 안되는 약들은 뭐가 있을까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341955433)
+}
+train (t-ok5qlv0pqx3jewm2dsd9h9tc5) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 찾아줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281087350)
+}

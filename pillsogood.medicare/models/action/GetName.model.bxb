@@ -1,0 +1,8 @@
+action (GetName) {
+  type (Search)
+  description (약 발화 받는 index page)
+  collect {
+    
+  }
+  output (Index)
+}

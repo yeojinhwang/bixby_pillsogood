@@ -1,0 +1,30 @@
+train (t-g14xuspu4oax3tjps8l22sg2b) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 먹으면 안 돼 (스포라녹스)[v:Name]?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341822548)
+}
+train (t-g38t74ioe6qwyf6v9e6qwn1ni) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (타이레놀)[v:Name] 드셔도 될까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561560007186)
+}
+train (t-g588xb8pxlj8r7a2pxmftl59h) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 정보")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561299039568)
+}
+train (t-glirzne63uf9llz0gjj9m2yp4) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 복용법 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822048717)
+}
+train (t-gse2r1lubgq541xpoy0egdsd8) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (병용)[v:Mix:mix]해도  돼?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341827769)
+}
+train (t-gz1m6bw5spmdr06ykgoq11qfl) {
+  utterance ("[g:GetInfo] (오메가3의)[v:Name] 효능이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875243248)
+}

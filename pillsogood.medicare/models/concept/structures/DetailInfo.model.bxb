@@ -1,0 +1,55 @@
+structure (DetailInfo) {
+  description (세부사항 보여주기, 낱알식별조회 + DUR 품목조회, 주의사항(NBurl), 효능(EEurl), 용법(UDurl))
+  property (pillname) {
+      type (PillName)
+      min (Optional) max (Many)
+  } 
+  property (name) {
+    type (Name)
+    min (Optional) max (Many)
+  } 
+  property (image) {
+    type (Image)
+    min (Optional) max (Many)
+  }
+  property (class) {
+    type (Class)
+    min (Optional) max (Many)
+  }
+  property (chart) {
+    type (Chart)
+    min (Optional) max (Many)
+  }
+  property (content) {
+    type (Content)
+    min (Optional) max (Many)
+  }
+  property (storage) {
+    type (Storage)
+    min (Optional) max (Many)
+  }
+  property (pack) {
+    type (Pack)
+    min (Optional) max (Many)
+  }
+  property (message) {
+    type (Message)
+    min (Optional) max (Many)
+  }
+  property (nburl) {
+      type (NBurl)
+      min (Optional) max (Many)
+  } 
+  property (eeurl) {
+      type (EEurl)
+      min (Optional) max (Many)
+  } 
+  property (udurl) {
+      type (UDurl)
+      min (Optional) max (Many)
+  }
+  property (material) {
+    type(Material)
+    min (Optional) max (Many)
+  }
+}

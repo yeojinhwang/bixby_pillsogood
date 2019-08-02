@@ -1,0 +1,10 @@
+train (t-i78c7ytb9jylk2uar2m3k7jnm) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 먹을 수 있어 (스포라녹스)[v:Name]?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341864392)
+}
+train (t-imn3u6s5gc449iud9hhr712t5) {
+  utterance ("[g:GetInfo] (이지엔6)[v:Name]의 효과가 궁금해")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875234174)
+}

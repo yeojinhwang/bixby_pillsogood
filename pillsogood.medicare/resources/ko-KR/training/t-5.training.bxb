@@ -1,0 +1,40 @@
+train (t-57uqiy2u2or1rrxprdw3q2b6i) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (타이레놀)[v:Name] 섭취 할 수 있어?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561825513447)
+}
+train (t-5d37ovzamazf1zfcvl8p2nla5) {
+  utterance ("[g:GetInfo] (게보린)[v:Name]의 주의사항 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875270884)
+}
+train (t-5dh1bxuqp454hebf3cdtyqaoj) {
+  utterance ("[g:GetCombinedList] (디아제팜)[v:Name]이랑 먹으면 안 되는약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561306935957)
+}
+train (t-5gy5yxyw903u0i5c433yddgil) {
+  utterance ("[g:GetCombined] (함께)[v:Mix:mix] 먹어도 괜찮아? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341706636)
+}
+train (t-5liq2sdjp6xkssi12sxphmeg0) {
+  utterance ("[g:GetInfo] (글리필엠정)[v:Name] 주의할 점 있어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822776518)
+}
+train (t-5oago7irwj3t14k6jrczkd9ss) {
+  utterance ("[g:GetInfo] (아스피린)[v:Name]의 조심해야할 점이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875259813)
+}
+train (t-5scgccpu88f2bqfwng2ye96wa) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (디아제팜)[v:Name] 먹으면 안 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341720688)
+}
+train (t-5yo71051z8c5g0nc09dth2d2t) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name] 병용금기약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308428492)
+}

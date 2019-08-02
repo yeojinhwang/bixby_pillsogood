@@ -1,0 +1,3 @@
+text (PillName) {
+  description (발화로 던진 약 이름 -> 팔로우업을 위해)
+}

@@ -1,0 +1,30 @@
+train (t-l3352mbaskay59j9y53dp4073) {
+  utterance ("[g:GetInfo] (비타민)[v:Name]의 효능이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875249855)
+}
+train (t-lo3nrmh0ezzazxk8sv62vcatb) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] 두 개를 (같이)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341913937)
+}
+train (t-lqmj728ld7d5kqjnba94damd1) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 효과 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875274456)
+}
+train (t-lt11boiupxro6ju3060tly1vm) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]와 (타이레놀)[v:CombinedName]을 (같이)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561343099921)
+}
+train (t-lytlfc5or7t5efv81lifu09f2) {
+  utterance ("[g:GetOld] (만65세 이상)[v:Target:old]이 (아스피린)[v:Name] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561824839621)
+}
+train (t-lyw0vjrurwxd8r0msws5exn1f) {
+  utterance ("[g:GetCombinedList] (카코나정)[v:Name]이랑 (같이)[v:Mix:mix] 먹으면 위험한 약 있으면 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341922236)
+}

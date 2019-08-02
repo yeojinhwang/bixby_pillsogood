@@ -1,0 +1,15 @@
+capsule-info {
+  display-name (약선생)
+  description ("약선생은 여러분의 안전한 복약을 위한 금기 정보/약 정보를 제공합니다.")
+  developer-name (김동민, 김희윤, 이재찬, 이헌규, 정태현, 조인정, 황여진)
+  icon-asset (/images/icons/pillsogood.PNG)
+  search-keywords {
+    keyword (복약정보)
+    keyword (약정보)
+    keyword (약)
+    keyword (임산부)
+    keyword (노인)
+    keyword (병용금기)
+  }
+  dispatch-name (약선생)
+}

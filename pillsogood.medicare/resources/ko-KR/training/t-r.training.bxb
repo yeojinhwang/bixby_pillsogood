@@ -1,0 +1,30 @@
+train (t-r0tjse0x9s5fqqgp1bzwvnc0j) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (함께)[v:Mix:mix] 먹을 수 있어?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341963076)
+}
+train (t-r2b1x7q1baz2wl90vw2d4wqi7) {
+  utterance ("[g:GetInfo] (리보트릴정)[v:Name] 효과")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822865138)
+}
+train (t-rcpz663blbztwqmp5aacw1w5a) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name]의 효능이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875275479)
+}
+train (t-rgsydnlqozkn4m1lzm71e1tsz) {
+  utterance ("[g:GetOld] (할아버지)[v:Target:old]가 (타이레놀)[v:Name] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561561871908)
+}
+train (t-rh4kchf3ucjlir7jlijjoa04y) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 정보 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281241644)
+}
+train (t-rp7caetmcdu3amcp8u8e61ug1) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]이랑 (같이)[v:Mix:mix] 먹으면 안 되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341971319)
+}

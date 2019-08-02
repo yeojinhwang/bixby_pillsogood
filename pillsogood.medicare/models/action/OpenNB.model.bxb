@@ -1,0 +1,11 @@
+action (OpenNB) {
+  type (Search)
+  description (약의 상세정보에서 주의사항url)
+  collect {
+    input (nburl) {
+      type (NBurl)
+      min (Optional) max (One)
+    }
+  }
+  output (URL)
+}

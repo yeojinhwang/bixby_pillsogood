@@ -1,0 +1,80 @@
+result-view {
+    match: Index (index){
+       from-output: GetName
+     }
+  message {
+    template ("어떤 약을 원하세요?")
+  }
+
+ render {
+   layout {
+     section {
+       content {
+          title-area {
+          halign (Center)
+          slot1 {
+            text {
+              value ("[#{value(index.message)}]")
+              style (Title_M)
+              }
+            }
+          }
+          thumbnail-card {
+    title-area {
+        halign (Start)
+        slot1 {
+            text {
+            style (Title_S)
+            value ("복용 시 주의사항")
+            }
+        }
+        slot2 {
+            single-line {
+            text {
+                value ("")
+                style (Detail_L)
+            }
+            }
+        }
+        slot3 {
+            single-line {
+            text {
+                value ("just click")
+                style (Detail_M_Soft)
+            }
+            }
+        }
+    }
+    image-url {
+        template ("")
+    }
+    image-position (End)
+            
+   on-click {
+              intent {
+                goal: GetName
+              }
+            }
+}
+          
+          
+        }
+        
+      }
+    }
+  }
+  
+    conversation-drivers {
+    conversation-driver {
+      template ("타이레놀의 병용금기약 알려줘")
+    }
+    conversation-driver {
+      template ("임산부가 타이레놀 먹어도 돼?")
+    }
+    conversation-driver {
+      template ("만65세 이상이 타이레놀 먹어도 돼?")
+    }
+  }
+  
+  
+}

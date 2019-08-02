@@ -1,0 +1,25 @@
+train (t-x7zoej09ews43rw61o2apqz7e) {
+  utterance ("[g:GetInfo] (모아콘)[v:Name] 주의할 사항이 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822802034)
+}
+train (t-xbrnbd7ga8ubu8b0ayeda7fjq) {
+  utterance ("[g:GetCombinedList] (심바스틴정)[v:Name]과 (함께)[v:Mix:mix] 먹으면 안되는 약은 뭐가 있니?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561342040986)
+}
+train (t-xhcww28x0tift2wi00pgvzcj1) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281163839)
+}
+train (t-xvzaz69t3er7siqyxqaoo7efh) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]이랑 먹으면 안 되는 약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561306834007)
+}
+train (t-xw6wb9g8geamyt4lgmqkmdygh) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]에게 (스포라녹스)[v:Name] 위험해?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561342048271)
+}

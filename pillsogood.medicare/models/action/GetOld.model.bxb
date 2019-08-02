@@ -1,0 +1,15 @@
+action (GetOld) {
+  type (Search)
+  description (노인 금기 정보조회)
+  collect {
+    input (name) {
+      type (Name)
+      min (Required) max (One)
+    }
+    input (target) {
+      type (Target)
+      min (Required) max (One)
+    }
+  }
+  output (TabooInfo) // 필요하면 DetailInfo로 변경해도 됩니다
+}

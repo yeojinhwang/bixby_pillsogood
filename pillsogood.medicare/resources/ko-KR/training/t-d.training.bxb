@@ -1,0 +1,20 @@
+train (t-d7ha65bi9klk4mb6h2l9z3f2g) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (스포라녹스)[v:Name] 먹으면 안 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341786684)
+}
+train (t-dgef9c21e8hueha5afe5yxucv) {
+  utterance ("[g:GetInfo] (개비스콘)[v:Name] 검색해줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875224537)
+}
+train (t-dnk13hwmdb1yov1akzgbr1nff) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 보여줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561298941686)
+}
+train (t-dvqlh4sab167zi4qiyzw5pay9) {
+  utterance ("[g:GetInfo] (오메가3)[v:Name]의 주의사항이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875246319)
+}

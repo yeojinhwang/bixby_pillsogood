@@ -1,0 +1,30 @@
+train (t-q8edx97t00afnxan6n4azt9az) {
+  utterance ("[g:GetInfo] (겔포스)[v:Name] 주의사항이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875227743)
+}
+train (t-qf8cdqww6s4ojwd6r0l86g88q) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280896172)
+}
+train (t-qfbesqd8ozmtyt2ot723fhv2o) {
+  utterance ("[g:GetInfo] (펜렉스정)[v:Name] 어떻게 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822226094)
+}
+train (t-qhmqott35lkwgx9ei58uunzlw) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280591216)
+}
+train (t-qrz3blvg0b2ts3nslgk3o4skq) {
+  utterance ("[g:GetInfo] (아스피린)[v:Name]의 효과가 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875262858)
+}
+train (t-qtx29zrp8uaob0uuryfx2rjfr) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 주의사항이 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561821981457)
+}

@@ -1,0 +1,4 @@
+enum (Mix) {
+  description (병용)
+  symbol ("mix")
+}

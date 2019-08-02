@@ -1,0 +1,20 @@
+train (t-92bljx7jn4n5c24k41nvh7pa9) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]랑 (같이)[v:Mix:mix] 복용하면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343448524)
+}
+train (t-92db99zsd07ibwsnds7lz9ly7) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name]의 복용법 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875266468)
+}
+train (t-9axos7lj7sml9v2nsr9lkxigf) {
+  utterance ("[g:GetInfo] 검색해줘 (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561298799326)
+}
+train (t-9xcdn2wxdufg687df0r4nkztm) {
+  utterance ("[g:GetInfo] (펜잘)[v:Name] 언제 어떻게 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822980463)
+}

@@ -1,0 +1,40 @@
+endpoints {
+  action-endpoints {
+    action-endpoint (GetName) {
+      accepted-inputs ()
+      local-endpoint (GetName.js)
+    }
+    action-endpoint (GetOld) {
+      accepted-inputs (name, target)
+      local-endpoint (GetOld.js)
+    }
+    action-endpoint (GetInfo) {
+      accepted-inputs (name)
+      local-endpoint (GetInfo.js)
+    }
+    action-endpoint (GetPregnant) {
+      accepted-inputs (name, target)
+      local-endpoint (GetPregnant.js)
+    }
+    action-endpoint (GetCombined) {
+      accepted-inputs (name, combinedname, mix)
+      local-endpoint (GetCombined.js)
+    }
+    action-endpoint (GetCombinedList) {
+      accepted-inputs (name, mix)
+      local-endpoint (GetCombinedList.js)
+    }
+    action-endpoint (OpenNB) {
+      accepted-inputs (nburl)
+      local-endpoint (URL/OpenNB.js)
+    }
+    action-endpoint (OpenEE) {
+      accepted-inputs (eeurl)
+      local-endpoint (URL/OpenEE.js)
+    }
+    action-endpoint (OpenUD) {
+      accepted-inputs (udurl)
+      local-endpoint (URL/OpenUD.js)
+    }
+  }
+}

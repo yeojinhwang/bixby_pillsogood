@@ -1,0 +1,35 @@
+structure (TabooInfo) {
+  description (금기 정보조회, 낱알식별정보조회)
+  property (pillname) {
+    type (PillName)
+    min (Optional) max (One)
+  }
+  property (combinedname) {
+    type (CombinedName)
+    min (Optional) max (Many)
+  }
+  property (name) {
+    type (Name)
+    min (Optional) max (Many)
+  }
+  property (image) {
+    type (Image)
+    min (Optional) max (Many)
+  }
+  property (class) {
+    type (Class)
+    min (Optional) max (Many)
+  }
+  property (chart) {
+    type (Chart)
+    min (Optional) max (Many)
+  }
+  property (content) {
+    type (Content)
+    min (Optional) max (Many)
+  }
+  property (message) {
+    type (Message)
+    min (Optional) max (Many)
+  }
+}

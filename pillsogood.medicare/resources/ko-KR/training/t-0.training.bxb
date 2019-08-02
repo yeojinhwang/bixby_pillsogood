@@ -1,0 +1,35 @@
+train (t-06gpa08in5v5iwe4fq75fs2vj) {
+  utterance ("[g:GetPregnant] (스포라녹스)[v:Name] 먹을 수 있어 (임산부)[v:Target:pregnant]가?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341634501)
+}
+train (t-09zmvyzxym4h1roo5aztnt3kw) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280548473)
+}
+train (t-0acpgchtmd3a4ca9omamahjw4) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (디아제팜)[v:Name] 드셔도 될까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341645036)
+}
+train (t-0i0vpmcz8kagnpvg6rw2krraq) {
+  utterance ("[g:GetCombined] (타이레놀)[v:Name]이랑 (스포라녹스)[v:CombinedName]랑 (같이)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561343122202)
+}
+train (t-0l0bdk5myoocnomp3fjbhmeah) {
+  utterance ("[g:GetInfo] (스포라녹스)[v:Name] 효능이 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822047686)
+}
+train (t-0luqxa2wzrejuwcwwbbd08kat) {
+  utterance ("[g:GetInfo] (피바스탄정)[v:Name] 뭐에 좋아")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822832177)
+}
+train (t-0te9cgk17rrxw1b13emnwgi1n) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]의 병용금기약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308494528)
+}

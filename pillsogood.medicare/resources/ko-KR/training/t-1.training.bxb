@@ -1,0 +1,20 @@
+train (t-1h3pr9cy373of84mayt1tvmdr) {
+  utterance ("[g:GetInfo] (콜이신)[v:Name] 몇 정 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822616691)
+}
+train (t-1qqnja3fnocylwfuq2ve52fiu) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] 두개를 (함께)[v:Mix:mix] 먹어도 돼?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341658840)
+}
+train (t-1scs16rhr3c897i0ztf9w73ao) {
+  utterance ("[g:GetInfo] (라스텟트에스캡슐)[v:Name] 몇 번 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822748751)
+}
+train (t-1ztqfw0z99rhokauaub82j9g9) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (스포라녹스)[v:Name] 먹을 수 있어?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341672713)
+}

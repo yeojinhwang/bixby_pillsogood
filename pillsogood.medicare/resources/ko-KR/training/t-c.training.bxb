@@ -1,0 +1,5 @@
+train (t-cws2v18v5tiozsdsss3zlflny) {
+  utterance ("[g:GetCombined] (아스피린)[v:Name]과 (게보린)[v:CombinedName]이랑 (같이)[v:Mix:mix] 먹어도 돼?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561343111779)
+}

@@ -1,0 +1,4 @@
+structure (Image) {
+  description (약 이미지)
+  extends (viv.core.BaseImage)
+}

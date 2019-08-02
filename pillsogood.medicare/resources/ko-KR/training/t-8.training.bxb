@@ -1,0 +1,10 @@
+train (t-85y7yrxspo9nbnifru185nkak) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (디아제팜)[v:Name] 드셔도 될까")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341759966)
+}
+train (t-8o2ji3fxe22d603311ufjf3hr) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (디아제팜)[v:Name] 드셔도 될까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341767530)
+}

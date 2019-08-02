@@ -1,0 +1,10 @@
+train (t-n3g53h8mbujz6x1lwyltasa4q) {
+  utterance ("[g:GetInfo] (아로나민)[v:Name]의 효과가 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875233063)
+}
+train (t-n7mgge63sljt33stvu4i0tgsy) {
+  utterance ("[g:GetCombined] (같이)[v:Mix:mix] 먹을 수 있어? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341950502)
+}

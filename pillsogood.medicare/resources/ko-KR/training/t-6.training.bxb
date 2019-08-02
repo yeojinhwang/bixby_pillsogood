@@ -1,0 +1,30 @@
+train (t-64obf8nd17d5rbqu8397buag3) {
+  utterance ("[g:GetPregnant] (스포라녹스)[v:Name] 먹을 수 있어 (산모)[v:Target:pregnant]가?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341733718)
+}
+train (t-6e9pdf1zif3264r26aq3x2fn5) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561298467023)
+}
+train (t-6gs24sevj97277oro6q4le1pu) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]는 뭐랑 먹으면 위험할까?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308701192)
+}
+train (t-6j59ksyg4p9127fk3gb9x5f6t) {
+  utterance ("[g:GetInfo] (훼스탈)[v:Name] 배탈에 효과 있어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561823129704)
+}
+train (t-6ucvtx6c41r8wzyihxgtby5q2) {
+  utterance ("[g:GetCombinedList] (심바스틴정)[v:Name]과 먹으면 안되는 약들은 뭐야?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309929781)
+}
+train (t-6yai9myz5guuj89jh6h73pi28) {
+  utterance ("[g:GetInfo] 찾아줘 (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561298690605)
+}

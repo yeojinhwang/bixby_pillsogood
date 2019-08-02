@@ -1,0 +1,35 @@
+train (t-z2yzqbrsok8w8bb3e4udobsue) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]를 (같이)[v:Mix:mix] 먹으면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343483733)
+}
+train (t-zbpmunyrxnrq22aml8383fn4n) {
+  utterance ("[g:GetInfo] (스포라녹스)[v:Name] 효능")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822083607)
+}
+train (t-zd9lf0soniunjueo0z7zu1wxy) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]도 (스포라녹스)[v:Name]를 먹어도 될까")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342136971)
+}
+train (t-zmhq8tq8bzai79qoug7rbc3wg) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name] 병용금기약은 뭐가 있니?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309657195)
+}
+train (t-zmiddso8zlog2kgfrlcoahvz1) {
+  utterance ("[g:GetInfo] (아스피린)[v:Name]에 대해 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561825096493)
+}
+train (t-zokrgkprkjobvlcref3lmkt42) {
+  utterance ("[g:GetInfo] (텐씨정)[v:Name] 먹으면 안 돼")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822379599)
+}
+train (t-zyco9rb0dh4nglp6pxn9wa1s2) {
+  utterance ("[g:GetInfo] (판피린)[v:Name] 감기에 좋아")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561824522416)
+}

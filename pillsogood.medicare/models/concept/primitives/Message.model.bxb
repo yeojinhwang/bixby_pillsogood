@@ -1,0 +1,3 @@
+text (Message) {
+  description (먹어도 되나 안되나, 전달할 메시지)
+}

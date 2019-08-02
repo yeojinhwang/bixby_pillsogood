@@ -1,0 +1,35 @@
+train (t-k4g0uku7omjri3zqzk4qwl0jp) {
+  utterance ("[g:GetInfo] (겔포스)[v:Name] 효능 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875230937)
+}
+train (t-kacftoeu29i9d9aar2ihy2z6z) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (스포라녹스)[v:Name] 먹어도 이상 없을까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341894041)
+}
+train (t-kbxs5x42swgq1ibtmkuv1cge0) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 드셔도 될까 (디아제팜)[v:Name]")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341899901)
+}
+train (t-kc3xlgdl32xoxtf1dpghhq1zg) {
+  utterance ("[g:GetPregnant] (스포라녹스)[v:Name] 먹으면 (임산부)[v:Target:pregnant]가?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341906657)
+}
+train (t-km2knr58zd6aa4s0lenqnsw31) {
+  utterance ("[g:GetInfo] (오메가3)[v:Name] 얼마나 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822225400)
+}
+train (t-kowm1ehlv9iqlf41omgg4k7ym) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 보여줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281033600)
+}
+train (t-kzezf3qay4x0kqnn1o3yuzzp8) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (스포라녹스)[v:Name] 섭취 할수있어?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561825209180)
+}

@@ -1,0 +1,18 @@
+// structure (URL) {
+//   description (__DESCRIPTION__)
+//   property (nburl) {
+//     type (NBurl)
+//     min (Optional) max (One)
+//   }
+//   property (eeurl) {
+//     type (EEurl)
+//     min (Optional) max (One)
+//   }
+//   property (udurl) {
+//     type (UDurl)
+//     min (Optional) max (One)
+//   }
+// }
+text(URL) {
+  
+}

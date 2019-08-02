@@ -1,0 +1,30 @@
+train (t-j32u7vhpryqn1ny17tloxcklt) {
+  utterance ("[g:GetPregnant] (스포라녹스)[v:Name] 위험해 임산부에게?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qAxMDIxAzAElGBhCA8gE=)
+  last-modified (1561299186938)
+}
+train (t-j365c66nl8e2f3268c9idd1dl) {
+  utterance ("[g:GetInfo] (아스피린)[v:Name] 주의사항 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875261124)
+}
+train (t-j61t62g2f6jkqe7wx9pme7yjf) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]의 병용금기인 약을 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309712721)
+}
+train (t-jbb4txbx2mxqzgz9mtijowjtu) {
+  utterance ("[g:GetInfo] (베아제)[v:Name] 언제 언제 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822934689)
+}
+train (t-jbfgu68lktc7bjyyaefbc6jdi) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]은 뭐랑 먹으면 위험하니?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308675670)
+}
+train (t-jcj5vw0aphl6zj4ggw3i0jj0y) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]인데 (타이레놀)[v:Name] 위험해?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341887340)
+}

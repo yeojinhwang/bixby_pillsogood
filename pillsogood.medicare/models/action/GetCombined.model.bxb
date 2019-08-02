@@ -1,0 +1,19 @@
+action (GetCombined) {
+  type (Search)
+  description (병용금기 정보조회)
+  collect {
+    input (name) {
+      type (Name)
+      min (Required) max (One)
+    }
+    input (combinedname) {
+      type (CombinedName)
+      min (Required) max (One)
+    }
+    input (mix) {
+      type (Mix)
+      min (Optional) max (One)
+    }
+  }
+  output (TabooInfo)
+}

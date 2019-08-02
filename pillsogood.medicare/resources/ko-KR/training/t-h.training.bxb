@@ -1,0 +1,40 @@
+train (t-h2dco55yvyn4xndgnpxpnbt31) {
+  utterance ("[g:GetCombined] (같이)[v:Mix:mix] 먹어도 돼? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341833574)
+}
+train (t-h49vpkhv1ozwt99ry6viqnpvx) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 보여줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280613497)
+}
+train (t-ha5zrjnxwf7hkym95feu3ab9e) {
+  utterance ("[g:GetCombined] (디아제팜)[v:Name]을 (타이레놀)[v:CombinedName]과 (같이)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561343090244)
+}
+train (t-hc8b1znbuv5bdual6kpwm0re0) {
+  utterance ("[g:GetInfo] 보여줘 (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561299080530)
+}
+train (t-hfxlfyr68taxex0sn7etw58hb) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (함께)[v:Mix:mix] 먹어도 돼?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341839818)
+}
+train (t-hi56ylwvi3wead16fnh9hjzgh) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 먹으면 안 돼? (디아제팜)[v:Name]을")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561341846066)
+}
+train (t-hp4dhvhiveniw3mwgcf6ofro4) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (병용)[v:Mix:mix]해도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341851898)
+}
+train (t-hy323o6w4jyshdsh52a1iashe) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (함께)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341857843)
+}

@@ -1,0 +1,107 @@
+layout-macro-def(TabooSingleInfo) {
+  params {
+    param (Taboo) {
+      type (TabooInfo)
+    }
+  }
+
+  content {
+    section {
+      content {
+        image-card {
+          aspect-ratio (4:3)
+          image-url {
+            template ("[#{value (Taboo.image.url)}]")
+          }
+          title-area {
+            slot2 {
+              single-line {
+                text{
+                  value ("")
+                }
+              }
+            }
+          }
+        }
+        single-line {
+          spacer
+        }
+        single-line {
+          spacer
+        }
+        title-area {
+          slot1 {
+            text {
+              value {
+                template ("[#{value (Taboo.name)}]")
+              }
+              style (Title_L)
+            }
+          }
+        }
+        single-line {
+          spacer
+        }
+        single-line {
+          spacer
+        }
+        cell-area {
+          slot2 {
+            content {
+              order (SecondaryPrimary)
+              primary {
+                template ("[#{value (Taboo.chart)}]")
+              }
+              secondary {
+                template ("성상")
+              }
+            }
+          }
+        }
+        single-line {
+          spacer
+        }
+        cell-area {
+          slot2 {
+            content {
+              order (SecondaryPrimary)
+              primary {
+                template ("[#{value (Taboo.class)}]")
+              }
+              secondary {
+                template ("분류명")
+              }
+            }
+          }
+        }
+        
+        single-line {
+          spacer
+        }
+        cell-area {
+          slot2 {
+            content {
+              order (SecondaryPrimary)
+              primary {
+                template ("[#{value (Taboo.content)}]")
+              }
+              secondary {
+                template ("부작용")
+              }
+            }
+          }
+        }
+        paragraph {
+          value {
+            template ("본 결과는 식품의약품안전처에서 관리하는 의약품 관련 API 정보를 기반으로 제공됩니다.")
+          }
+        }
+        paragraph {
+          value {
+            template ("개인 특성을 고려하지 않은 범용적 안내이므로 참고용으로 인지하며, 자세한 사항은 전문가와 상담하시길 권장합니다.")
+          }
+        }
+      }
+    }
+  }
+}

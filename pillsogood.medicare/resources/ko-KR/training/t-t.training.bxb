@@ -1,0 +1,25 @@
+train (t-t0hb81eusw6vhhu2jalk62e9y) {
+  utterance ("[g:GetInfo] (디디비캡슐)[v:Name] 하루에 몇 번 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822566977)
+}
+train (t-t1ip067era81v0ppb334ajbq0) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]이랑 (함께)[v:Mix:mix] 먹으면 안 되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341985033)
+}
+train (t-tb33e458i78ugbftpl5ltbxda) {
+  utterance ("[g:GetInfo] (진플러스정)[v:Name] 먹어도 돼")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822266957)
+}
+train (t-te266p9hu7yh42mmmrnegkxw4) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] (같이)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341990712)
+}
+train (t-tppyktgc8yd9k442epiq73gtb) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]과 (같이)[v:Mix:mix] 먹으면 안되는 약들은 뭐야?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341997777)
+}

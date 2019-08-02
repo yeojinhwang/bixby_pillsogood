@@ -1,0 +1,23 @@
+layout-macro-def (ListInfo) {
+  params {
+    param (pill) {
+      type (DetailInfo)
+      min (Optional) max (One)
+    }
+  }
+  content {
+    thumbnail-card {
+      image-position (End)
+      image-url ("[#{value(pill.image.url)}]")
+      title-area {
+        halign (Start)
+        slot1 {
+          text {
+            value ("[#{value(pill.name)}]")
+            style (Title_XS)
+          }
+        }
+      }
+    }
+  }
+}

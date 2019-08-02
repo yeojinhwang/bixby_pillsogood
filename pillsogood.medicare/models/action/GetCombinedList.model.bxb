@@ -1,0 +1,15 @@
+action (GetCombinedList) {
+  type (Search)
+  description (병용 금기 약품 리스트 조회)
+  collect {
+    input (name) {
+      type (Name)
+      min (Required) max (One)
+    }
+    input (mix) {
+      type (Mix)
+      min (Optional) max (One)
+    }
+  }
+  output (TabooInfo)
+}

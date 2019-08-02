@@ -1,0 +1,24 @@
+capsule {
+  id (pillsogood.medicare)
+  version (2.0.0)
+  format (3)
+  targets {
+    target (bixby-mobile-ko-KR)
+  }
+  capsule-imports { 
+    import (viv.entity) {
+      as (entity) version (3.18.11)
+    }
+    import (viv.image) {
+      as (image) version-from (entity)
+    }
+  }
+  store-sections {
+    section (HealthAndFitness)
+  }
+  runtime-flags {
+    concepts-inherit-super-type-features
+    modern-prompt-rejection
+    support-halt-effect-in-computed-inputs
+  }
+}

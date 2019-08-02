@@ -1,0 +1,15 @@
+train (t-40s0jffppt0fb74pwewtwturx) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (타이레놀)[v:Name] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561559973456)
+}
+train (t-4f4nku8vw5pnvodxkwh3t4tme) {
+  utterance ("[g:GetInfo] (산화마그네슘정)[v:Name] 몇 개 먹어야 돼")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822683061)
+}
+train (t-4n7ay86ng0zd0ov5ecqkd0vql) {
+  utterance ("[g:GetInfo] (부루펜)[v:Name]의 복용법이 궁금해")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875232054)
+}

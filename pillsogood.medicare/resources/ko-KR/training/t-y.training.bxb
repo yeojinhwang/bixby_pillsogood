@@ -1,0 +1,40 @@
+train (t-y035903b7fw2pe698dmm9h4ra) {
+  utterance ("[g:GetOld] (디아제팜)[v:Name] 위험해? (노인)[v:Target:old]에게")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342054976)
+}
+train (t-yixf6gdv7nbtkwr4r0wydroz0) {
+  utterance ("[g:GetOld] (디아제팜)[v:Name] 드셔도 될까? (노인)[v:Target:old]이")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342060577)
+}
+train (t-ym4nqbsz8v4s6bt21bf3fyk2q) {
+  utterance ("[g:GetCombinedList] (디아제팜)[v:Name]은 뭐랑 먹으면 안되니?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308583086)
+}
+train (t-yo4xg3vj0y98rh9jhz11e4dq8) {
+  utterance ("[g:GetInfo] 뭘까 (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561299839825)
+}
+train (t-yom5slc0h1cdg7yqqvlynkqut) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (타이레놀)[v:Name] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561342071346)
+}
+train (t-yousatbninm1ayv5uccsrq4sq) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]를 (디아제팜)[v:CombinedName]과 (함께)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561343075157)
+}
+train (t-ys2crdl01j8k1gvo5gfgq1iai) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]에게 (디아제팜)[v:Name] 위험해?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342080759)
+}
+train (t-ys8i3v3dmq2zucyoyd8cncrgs) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]이 (디아제팜)[v:Name] 드셔도 이상 없을까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342087255)
+}

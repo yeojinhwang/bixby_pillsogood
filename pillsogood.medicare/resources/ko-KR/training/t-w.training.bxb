@@ -1,0 +1,20 @@
+train (t-wjjvbscpck6on81t4gfatmmb7) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]와 (같이)[v:Mix:mix] 먹으면 안되는 약들은 어떤게 있을까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561342030697)
+}
+train (t-wvrc5h3l0vr6r9bzck74e4bv5) {
+  utterance ("[g:GetCombined] (타이레놀)[v:Name]이랑 (디아제팜)[v:CombinedName] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBApsKsAwzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1561323455818)
+}
+train (t-wwcvusxci1sgv13jq82nou6j1) {
+  utterance ("[g:GetInfo] (이지엔6)[v:Name]의 조심할 점이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875235931)
+}
+train (t-wwu1sp0wwb35b6ylj0xmzac3n) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]와 (같이)[v:Mix:mix] 먹으면 안되는 약은 뭐가 있을까?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561342036912)
+}

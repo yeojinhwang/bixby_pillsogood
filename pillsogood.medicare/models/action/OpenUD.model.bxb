@@ -1,0 +1,11 @@
+action (OpenUD) {
+  type (Search)
+  description (약의 상세정보에서 용법url)
+  collect {
+    input (udurl) {
+      type (UDurl)
+      min (Optional) max (One)
+    }
+  }
+  output (URL)
+}

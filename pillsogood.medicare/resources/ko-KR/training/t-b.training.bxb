@@ -1,0 +1,15 @@
+train (t-b3bdylxvx9akodjxdjvwfh0f3) {
+  utterance ("[g:GetCombined] 먹으면 안 돼? (타이레놀)[v:Name]이랑 (디아제팜)[v:CombinedName]")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBApsKsAwzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1561323561642)
+}
+train (t-b56dbkbp72v38myf10mhzzxmf) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 (스포라녹스)[v:Name] 먹어도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341778102)
+}
+train (t-b5d3qxt8pyqoxuwcttykatvne) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 찾아줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280648287)
+}

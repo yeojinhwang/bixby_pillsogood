@@ -1,0 +1,15 @@
+train (t-a8rpdbqg9e969bbf0xaknk1pr) {
+  utterance ("[g:GetOld] (할아버지)[v:Target:old]가 (타이레놀)[v:Name] 섭취해도 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561825398749)
+}
+train (t-ai246b5h39fkqwna39231txxm) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 주의사항")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822010192)
+}
+train (t-asu2u6rb8yic0t9smzfr87rc6) {
+  utterance ("[g:GetCombinedList] (심바코틴정)[v:Name]은 뭐랑 먹으면 안 될까?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308566362)
+}

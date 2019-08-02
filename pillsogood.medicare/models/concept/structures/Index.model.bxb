@@ -1,0 +1,7 @@
+structure (Index) {
+  description (약 발화문 유도 index 페이지)
+  property (message) {
+    type (Message)
+    min (Optional) max (Many)
+  }
+}

@@ -1,0 +1,11 @@
+action (OpenEE) {
+  type (Search)
+  description (약의 상세정보에서 효능url)
+  collect {
+    input (eeurl) {
+      type (EEurl)
+      min (Optional) max (One)
+    }
+  }
+  output (URL)
+}

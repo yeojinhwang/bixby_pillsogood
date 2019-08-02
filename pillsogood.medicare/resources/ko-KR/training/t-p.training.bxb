@@ -1,0 +1,20 @@
+train (t-phgmvvbugc7cbwrc9spdx0b2u) {
+  utterance ("[g:GetCombinedList] (심바코틴정)[v:Name] 병용금기약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308389372)
+}
+train (t-pmvjsv9kqypu3us6rmrowrsoj) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name]의 효능이 뭐야")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875272098)
+}
+train (t-pntzilf7y9bck38adexv8tpus) {
+  utterance ("[g:GetCombinedList] (심바스타틴)[v:Name]의 병용금기약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308525175)
+}
+train (t-pxbqbviwlibydax9bqlzpjm0s) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]과 같이 먹으면 안되는 약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309751108)
+}

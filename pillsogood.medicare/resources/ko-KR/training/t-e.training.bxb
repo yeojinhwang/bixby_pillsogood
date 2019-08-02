@@ -1,0 +1,15 @@
+train (t-e0i0mjpdnc4qw1n7vqghkn1w5) {
+  utterance ("[g:GetPregnant] (스포라녹스)[v:Name] 먹으면 안 돼 (임산부)[v:Target:pregnant]가?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341796611)
+}
+train (t-e4zzi5tjo74mvm07koq6q2ius) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]의 병용금기약은 뭐가 있어?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309530931)
+}
+train (t-et39h8w0icyj39y30csxz5pkr) {
+  utterance ("[g:GetInfo] (디디비캡슐)[v:Name] 하루에 얼마나 먹어")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561822588921)
+}

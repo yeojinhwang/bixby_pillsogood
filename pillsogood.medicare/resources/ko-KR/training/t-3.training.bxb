@@ -1,0 +1,30 @@
+train (t-3ef2504e8sirbnmua8u0uhdnm) {
+  utterance ("[g:GetCombinedList] (우루사)[v:Name]와 (함께)[v:Mix:mix] 먹으면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343617144)
+}
+train (t-3g755aq9druh31wcpoeahqkri) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name]의 먹는 방법이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875265013)
+}
+train (t-3g91xousp1i5is0l3ie8kaav8) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 뭘까")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280711201)
+}
+train (t-3ovjdyo8g5lhph86d4zc2p9ct) {
+  utterance ("[g:GetPregnant] (산모)[v:Target:pregnant]는 (타이레놀)[v:Name]을 먹을 수 있어")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561342224229)
+}
+train (t-3sdvdaml3bqqjfbe6hw9ezd5g) {
+  utterance ("[g:GetCombined] (타이레놀)[v:Name]이랑 (디아제팜)[v:CombinedName] 먹으면 안 돼?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBApsKsAwzAyMDE5BkANIgCAFwUQA=)
+  last-modified (1561323521936)
+}
+train (t-3xbeamhoa0kl7d0acuaytgovw) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name]의 주의사항 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875269819)
+}

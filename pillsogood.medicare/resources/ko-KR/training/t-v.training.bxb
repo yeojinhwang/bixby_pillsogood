@@ -1,0 +1,30 @@
+train (t-v1rmfxwahc43yz88kd27xq539) {
+  utterance ("[g:GetCombinedList] (아스피린)[v:Name]이랑 (함께)[v:Mix:mix] 병용하면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343465378)
+}
+train (t-v5u4vyw1nm9rwr2ytd9ufeypn) {
+  utterance ("[g:GetInfo] (오메가3)[v:Name]의 먹는법 있어?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875241956)
+}
+train (t-v7bf2johqh3g45pzqklz5l3j7) {
+  utterance ("[g:GetInfo] 정보 (타이레놀)[v:Name]")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561299718926)
+}
+train (t-vdz47pbf8rlsj2d2w5n6r42jj) {
+  utterance ("[g:GetCombinedList] (게보린)[v:Name]을 (섞어서)[v:Mix:mix] 먹으면 안되는 약 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561343395216)
+}
+train (t-vu1hwo9otlano4fl3r4kruoo2) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 찾아줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561299755812)
+}
+train (t-vw9798milzkfsz4fv3akzlr06) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]가 먹으면 (스포라녹스)[v:Name]?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561342025543)
+}

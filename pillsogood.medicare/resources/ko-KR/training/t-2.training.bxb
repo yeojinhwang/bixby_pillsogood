@@ -1,0 +1,40 @@
+train (t-234aoco2cra4nxcts2ljp5poi) {
+  utterance ("[g:GetInfo] (훼스탈)[v:Name] 주의사항이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875225877)
+}
+train (t-25knzbleswlojlhv81qdm1cv8) {
+  utterance ("[g:GetPregnant] (산모)[v:Target:pregnant]도 (스포라녹스)[v:Name]를 먹을 수 있어")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561342201926)
+}
+train (t-2b6p4zmm5wjbw09rkyqeft1nz) {
+  utterance ("[g:GetInfo] (오메가3)[v:Name] 주의할 점을 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875245076)
+}
+train (t-2d6rraos4nrqtc2kknkfwk5sw) {
+  utterance ("[g:GetCombinedList] (심바스틴정)[v:Name]의 병용금기약은 뭐가 있니?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309550023)
+}
+train (t-2dl65tkyee328ve9kz3m94h97) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]의 병용금기약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309491081)
+}
+train (t-2dteebhxratkry7g5besp7usj) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 정보 알려줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561280753060)
+}
+train (t-2ghj5h0i0f0kkd2qtoq3hkpok) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name]랑 먹으면 안 되는약 뭐가 있어?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308250264)
+}
+train (t-2pm9b3gsuhrhm5iubi2wygeso) {
+  utterance ("[g:GetCombined] (병용)[v:Mix:mix]해도 괜찮아? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341698900)
+}

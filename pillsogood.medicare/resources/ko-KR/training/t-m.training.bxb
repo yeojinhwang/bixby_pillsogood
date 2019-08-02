@@ -1,0 +1,55 @@
+train (t-m0qjr97oap5l2jz0yrc4p2vkj) {
+  utterance ("[g:GetCombined] 두 개를 (함께)[v:Mix:mix] 먹어도 괜찮아? (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName]")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341926518)
+}
+train (t-m0r4acw5bsplpokqkl6cq23im) {
+  utterance ("[g:GetInfo] (게보린)[v:Name]의 먹는법 말해줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561875263891)
+}
+train (t-m29rn2du1kqsg6n85der81bl2) {
+  utterance ("[g:GetCombinedList] (타이레놀)[v:Name]과 (같이)[v:Mix:mix] 먹으면 안되는 약들을 알려줘")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIgjk2Rb2YFgwQ2Cb/E3FQGZgZGBiYgyQCkQRAC4KIA)
+  last-modified (1561341932407)
+}
+train (t-m5fsbwgd43jxa04limnwn80es) {
+  utterance ("[g:GetPregnant] (임산부)[v:Target:pregnant]인데 (스포라녹스)[v:Name] 위험해?")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWhJQlJqel5hXwiCBTYFfYm4qgxR2k4vSU0sYmBkYGZiAJAOQBkEIgIsCAA==)
+  last-modified (1561341937021)
+}
+train (t-m7r7m204qmivs5bjia66eqhzu) {
+  utterance ("[g:GetInfo] (타이레놀)[v:Name] 검색해줘")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281539371)
+}
+train (t-mbnwuhce4j1rg7jipl24bnpth) {
+  utterance ("[g:GetOld] (노인)[v:Target:old]께서 (디아제팜)[v:Name]을 먹어도 될까")
+  plan (Y2BhkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DCJu2eWuKfk8IggU3OLzE3FbuukMSi9NQSBmYGRgYmIMkApEEQAuCiAA==)
+  last-modified (1561342176549)
+}
+train (t-mi8857oe3q8iv37wyguy60e7a) {
+  utterance ("[g:GetCombinedList] (심바코틴정)[v:Name] 병용금기약은 뭐가 있어?")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561309640757)
+}
+train (t-mji92uj8geknb4k0d8egn1k6f) {
+  utterance ("[g:GetCombined] (스포라녹스)[v:Name]랑 (심바코틴정)[v:CombinedName] 두개를 (함께)[v:Mix:mix] 먹어도 괜찮아?")
+  plan (Y2BlkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ5DHJu2eWuKcn5uUmZeawqCATQFM1i8xN5VBHJsK38wKBglsEmAtLAyMDEwMzECaAciCQBhAkgMA)
+  last-modified (1561341944090)
+}
+train (t-mmvvup3a4tjwsv2gq0btsy7cm) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name]이 뭐야?")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561825271135)
+}
+train (t-mppkbm8vu0f68469qhzogxpgu) {
+  utterance ("[g:GetCombinedList] (스포라녹스)[v:Name] 병용금기 약 알려줘")
+  plan (Y2BmkC3IzMkpzk/Pz0/Ry01NyUxOLErVC0lMys/3zEvLZ1DGJu2eWuKcn5uUmZea4pNZXMIggU2RX2JuKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1561308279217)
+}
+train (t-mym5d3adumpfkipu532heainp) {
+  utterance ("[g:GetInfo] (디아제팜)[v:Name] 뭘까")
+  plan (Y2BmkCvIzMkpzk/Pz0/Ry01NyUxOLErVc0ktSczM8cxLy2eQxibvnloClpTAJumXmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1561281203275)
+}
