@@ -16,15 +16,17 @@ match: TabooInfo (TabooInfo) {
     layout {
       section {
         content {
-          cell-area {
-            slot2 {
-              content {
-                order (SecondaryPrimary)
-                primary {
-                  template ("[#{value (TabooInfo.content)}]")
-                }
-                secondary {
-                  template ("부작용")
+          if (content != '없음') {
+            cell-area {
+              slot2 {
+                content {
+                  order (SecondaryPrimary)
+                  primary {
+                    template ("[#{value (TabooInfo.content)}]")
+                  }
+                  secondary {
+                    template ("부작용")
+                  }
                 }
               }
             }

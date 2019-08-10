@@ -46,6 +46,7 @@ module.exports.function = function getCombined (name, combinedname) {
     })
     if (text === '') {
       text ='같이 드셔도 괜찮아요.'
+      prohibit = '없음'
     }
   }
   //3
@@ -68,6 +69,7 @@ module.exports.function = function getCombined (name, combinedname) {
     })
     if (text === ''){
       text = '같이 드셔도 괜찮아요.'
+      prohibit = '없음'
     }
   }
   //4
@@ -76,10 +78,11 @@ module.exports.function = function getCombined (name, combinedname) {
     var pillb_names=[]
     answer_a.response.body.items.item.forEach(function(itema){
       pilla_names.push(itema.MIXTURE_ITEM_NAME)
-      prohibit = item.PROHBT_CONTENT
+      prohibit = itema.PROHBT_CONTENT
     })
     answer_b.response.body.items.item.forEach(function(itemb){
       pillb_names.push(itemb.MIXTURE_ITEM_NAME)
+      prohibit = itemb.PROHBT_CONTENT
     })
 	  var uniq_a = pilla_names.reduce(function(a,b){
 	  if (a.indexOf(b) < 0 ) a.push(b);
@@ -91,7 +94,7 @@ module.exports.function = function getCombined (name, combinedname) {
 	  },[]); 
 	  uniq_a.forEach(function(str_a){
 	  if(str_a.includes(combinedname)){
-	  text = '같이 드시는 걸 권장하지 않아요. 전문가와 상의하세요.'
+	    text = '같이 드시는 걸 권장하지 않아요. 전문가와 상의하세요.'
 	  }
 	  return text
 	  })
@@ -99,12 +102,13 @@ module.exports.function = function getCombined (name, combinedname) {
 	  if (text === '') {
       uniq_b.forEach(function(str_b){
         if (str_b.includes(name)){
-        text = '같이 드시는 걸 권장하지 않아요. 전문가와 상의하세요.'
+          text = '같이 드시는 걸 권장하지 않아요. 전문가와 상의하세요.'
         }
 	      return text
 	    })
 	    if (text === '') {
-      text ='같이 드셔도 괜찮아요.'
+        text ='같이 드셔도 괜찮아요.'
+        prohibit = '없음'
       }
 	  }
   }
