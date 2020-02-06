@@ -7,8 +7,9 @@ capsule {
   }
   capsule-imports { 
     import (viv.entity) {
-      as (entity) version (3.18.11)
+      as (entity) version (3.7.33)
     }
+    // import capsules from entity
     import (viv.image) {
       as (image) version-from (entity)
     }
@@ -16,9 +17,11 @@ capsule {
   store-sections {
     section (HealthAndFitness)
   }
-  runtime-flags {
-    concepts-inherit-super-type-features
-    modern-prompt-rejection
-    support-halt-effect-in-computed-inputs
+  runtime-version (2) {
+    overrides {
+      concepts-inherit-super-type-features (true)
+      modern-prompt-rejection (true)
+      support-halt-effect-in-computed-inputs (true)
+    }
   }
 }

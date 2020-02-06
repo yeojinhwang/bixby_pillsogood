@@ -1,9 +1,9 @@
 hints {
   uncategorized {
-    utterance (훼스탈 검색해줘)
-    utterance (임산부가 아스피린 먹어도 돼?)
-    utterance (노인이 게보린 드셔도 될까?)
-    utterance (아스피린이랑 타이레놀 같이 먹어도 돼?)
-    utterance (부루펜이랑 같이 먹으면 안 되는 약 알려줘)
+    hint ("훼스탈 검색해줘")
+    hint ("임산부가 아스피린 먹어도 돼?")
+    hint ("노인이 게보린 드셔도 될까?")
+    hint ("아스피린이랑 타이레놀 같이 먹어도 돼?")
+    hint ("부루펜이랑 같이 먹으면 안 되는 약 알려줘")
   }
 }
