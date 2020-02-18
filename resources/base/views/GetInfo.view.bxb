@@ -3,7 +3,7 @@ result-view {
        from-output: GetInfo
      }
   message {
-    template ("[#{value(DetailInfo.pillname)}]에 대한 정보입니다.")
+    template ("다음 중 어떤 약이 궁금하신가요?")
   }
 
   render {
