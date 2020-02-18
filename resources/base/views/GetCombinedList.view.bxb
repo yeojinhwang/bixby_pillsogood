@@ -32,12 +32,12 @@ result-view {
       layout {
         section {
           content {
-            paragraph {
-              value {
-                template ("병용금기 약물 검색 결과 없음")
-              }
-              style (Title_L)
-            }
+            // paragraph {
+            //   value {
+            //     template ("병용금기 약물 검색 결과 없음")
+            //   }
+            //   style (Title_L)
+            // }
             cell-area {
               slot2 {
                 content {
