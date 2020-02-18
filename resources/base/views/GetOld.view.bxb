@@ -11,22 +11,22 @@ result-view {
    layout {
      section {
        content {
-          if (content != '없음') {
-            image-card {
-              aspect-ratio (4:3)
-              image-url {
-                template ("[#{value (TabooInfo.image.url)}]")
-              }
-              title-area {
-                slot2 {
-                  single-line {
-                    text{
-                      value ("")
-                    }
+         image-card {
+            aspect-ratio (4:3)
+            image-url {
+              template ("[#{value (TabooInfo.image.url)}]")
+            }
+            title-area {
+              slot2 {
+                single-line {
+                  text{
+                    value ("")
                   }
                 }
               }
             }
+          }
+          if (content != '없음') {
             single-line {
               spacer
             }
