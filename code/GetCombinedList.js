@@ -11,7 +11,7 @@ module.exports.function = function getCombinedList (name) {
   
   if (totalcount >= 1) {
     var contents = response.response.body.items.item
-    var message = name + "은/는 다음 약들과 함께 먹으면 위험해요."
+    var message = name + "은(는) 다음 약들과 함께 먹으면 위험해요."
     
     contents.forEach(function(content) {
       var imageurl = config.get('urlinfo') + '?serviceKey=' + key + '&item_name=' + encodeURI(content['MIXTURE_ITEM_NAME'])
@@ -48,7 +48,7 @@ module.exports.function = function getCombinedList (name) {
     })
   } 
   else {
-    var message = "병용금기약이 없습니다."
+    var message = "병용금기약이 검색되지 않아요."
     // 병용금기 리스트가 없는 경우에는 발화된 약 정보 출력
     var imageurl = config.get('urlinfo') + '?serviceKey=' + key + '&item_name=' + encodeURI(name)
     var imageresponse = http.getUrl(imageurl, {format: 'xmljs'})
