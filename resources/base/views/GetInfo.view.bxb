@@ -1,7 +1,7 @@
 result-view {
-    match: DetailInfo (DetailInfo){
-       from-output: GetInfo
-     }
+  match: DetailInfo (DetailInfo){
+    from-output: GetInfo
+  }
   message {
     template ("다음 중 어떤 약이 궁금하신가요?")
   }

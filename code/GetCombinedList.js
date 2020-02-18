@@ -11,7 +11,7 @@ module.exports.function = function getCombinedList (name) {
   
   if (totalcount >= 1) {
     var contents = response.response.body.items.item
-    var message = name + " : 다음 약들과 함께 먹으면 위험해요."
+    var message = name + "은/는 다음 약들과 함께 먹으면 위험해요."
     
     contents.forEach(function(content) {
       var imageurl = config.get('urlinfo') + '?serviceKey=' + key + '&item_name=' + encodeURI(content['MIXTURE_ITEM_NAME'])
