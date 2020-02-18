@@ -3,7 +3,7 @@ result-view {
        from-output: GetName
      }
   message {
-    template ("어떤 약을 원하세요?")
+    template ("어떤 약에 대해 알기 원하세요?")
   }
 
  render {
@@ -37,12 +37,12 @@ result-view {
             }
         }
         slot3 {
-            single-line {
+          single-line {
             text {
                 value ("just click")
                 style (Detail_M_Soft)
             }
-            }
+          }
         }
     }
     image-url {
