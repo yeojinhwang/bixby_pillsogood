@@ -10,16 +10,16 @@ layout-macro-def(SingleInfo) {
         content {
           paragraph {
             value {
-              template ("검색 결과가 없습니다.")
+              template ("약 이름을 말씀해 주세요.")
             }
-            style (Title_M)
+            style (Title_S)
           }
           single-line {
             spacer
           }
           paragraph {
             value {
-              template ("정확한 검색을 위해 약품명을 직접 입력해주세요.")
+              template ("또는 정확한 검색을 위해 약품명을 직접 입력해주세요.")
             }
             style (Detail_L_Soft)
           }

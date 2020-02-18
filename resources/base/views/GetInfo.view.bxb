@@ -3,7 +3,12 @@ result-view {
     from-output: GetInfo
   }
   message {
-    template ("다음 중 어떤 약이 궁금하신가요?")
+    // template ("[#{value(DetailInfo.pillname)}]의 검색 결과예요.")
+    template-macro (info) {
+      param(pill) {
+        expression (DetailInfo)
+      }
+    }
   }
 
   render {

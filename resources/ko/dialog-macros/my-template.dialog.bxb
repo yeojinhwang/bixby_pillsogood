@@ -1,0 +1,18 @@
+template-macro-def (info) {
+  params {
+    param (pill) {
+      type (DetailInfo)
+    }
+  }
+  content {
+    if (size(pill) > 1) {
+      template("다음 중 어떤 약이 궁금하신가요?")
+    } else {
+      if (pill.name == 'no result') {
+        template("#{value(pill.pillname)}에 대한 약 정보가 없어요.")
+      } else {
+        template("선택하신 약의 정보예요.")
+      }
+    }
+  }
+}
