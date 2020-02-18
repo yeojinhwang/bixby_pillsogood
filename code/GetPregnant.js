@@ -60,7 +60,7 @@ module.exports.function = function getPregnant (name) {
     if (typeof(contents[0]) === 'object') {
       contents.forEach(function(content) {
         result.push({
-          name: content['ITEM_NAME'],
+          name: name,
           image: {url: content['ITEM_IMAGE']},
           class: content['CLASS_NAME'],
           chart: content['CHART'],
