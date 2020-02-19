@@ -7,6 +7,12 @@ layout-macro-def (TabooListInfo) {
   }
   content {
     thumbnail-card {
+      on-click {
+        intent {
+          goal: GetInfo
+          value: $expr(Taboo.name)
+        }
+      }
       image-position (End)
       image-url ("[#{value(Taboo.image.url)}]")
       title-area {

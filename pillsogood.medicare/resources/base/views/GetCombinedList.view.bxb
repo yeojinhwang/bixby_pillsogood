@@ -9,20 +9,26 @@ result-view {
   
   render {
     if (TabooInfo[0].content != '없음'){
-      if (size(TabooInfo) > 1) {
-        list-of(TabooInfo) {
-          where-each(item) {
-            layout-macro(TabooListInfo) {
-              param(Taboo) {
-                expression(item)
+      layout {
+        if (size(TabooInfo) > 1) {
+          section {
+            content {
+              for-each(TabooInfo) {
+                as (item) {
+                  layout-macro(TabooListInfo) {
+                    param(Taboo) {
+                      expression(item)
+                    }
+                  }
+                }
               }
             }
           }
-        }
-      } else{
-        layout-macro (TabooSingleInfo) {
-        param (Taboo) {
-          expression (TabooInfo)
+        } else{
+          layout-macro (TabooSingleInfo) {
+          param (Taboo) {
+            expression (TabooInfo)
+            }
           }
         }
       }
