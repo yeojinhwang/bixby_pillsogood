@@ -7,6 +7,12 @@ layout-macro-def (ListInfo) {
   }
   content {
     thumbnail-card {
+      on-click {
+        intent {
+          goal: GetInfo
+          value: $expr(pill.name)
+        }
+      }
       image-position (End)
       image-url ("[#{value(pill.image.url)}]")
       title-area {

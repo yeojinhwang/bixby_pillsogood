@@ -12,22 +12,27 @@ result-view {
   }
 
   render {
-    if (size(DetailInfo) > 1) {
-      list-of (DetailInfo) {
-        has-details (true)
-        where-each (item) {
-          layout-macro (ListInfo) {
-            param (pill) {
-              expression (item)
+    layout {
+      if (size(DetailInfo) > 1) {
+        section {
+          content {
+            for-each (DetailInfo) {
+              as (item) {
+                layout-macro (ListInfo) {
+                  param (pill) {
+                    expression (item)
+                  }
+                }
+              }
             }
           }
         }
       }
-    }
-   else {
-      layout-macro (SingleInfo) {
-        param (pill) {
-          expression (DetailInfo)
+    else {
+        layout-macro (SingleInfo) {
+          param (pill) {
+            expression (DetailInfo)
+          }
         }
       }
     }
