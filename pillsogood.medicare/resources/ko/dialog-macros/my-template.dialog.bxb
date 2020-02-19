@@ -11,7 +11,7 @@ template-macro-def (info) {
       if (pill.name == 'no result') {
         template("#{value(pill.pillname)}에 대한 약 정보가 없어요.")
       } else {
-        template("선택하신 약의 정보예요.")
+        template("선택한 약의 정보예요.")
       }
     }
   }

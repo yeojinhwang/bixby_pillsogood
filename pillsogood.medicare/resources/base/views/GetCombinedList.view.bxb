@@ -19,8 +19,7 @@ result-view {
             }
           }
         }
-      }
-      else{
+      } else{
         layout-macro (TabooSingleInfo) {
         param (Taboo) {
           expression (TabooInfo)
