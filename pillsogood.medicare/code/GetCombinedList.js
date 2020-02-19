@@ -48,7 +48,7 @@ module.exports.function = function getCombinedList (name) {
     })
   } 
   else {
-    var message = "병용금기약이 검색되지 않아요."
+    var message = "함께 먹으면 안 되는 약 검색 결과가 없어요."
     // 병용금기 리스트가 없는 경우에는 발화된 약 정보 출력
     var imageurl = config.get('urlinfo') + '?serviceKey=' + key + '&item_name=' + encodeURI(name)
     var imageresponse = http.getUrl(imageurl, {format: 'xmljs'})
