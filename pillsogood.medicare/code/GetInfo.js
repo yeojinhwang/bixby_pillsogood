@@ -9,9 +9,10 @@ module.exports.function = function getInfo (name) {
   var config = require('config')
   
   var name_utf=encodeURI(name)
-  const url = config.get('urldetail') + '?ServiceKey='+ service_key + '&itemName='+ name_utf
-  var response = http.getUrl(url, {format: 'xmljs'})
-  var answer = response.response.body.items.item
+  // 이후 활용하는 정보가 없으므로 주석처리함
+  // const url = config.get('urldetail') + '?ServiceKey='+ service_key + '&itemName='+ name_utf
+  // var response = http.getUrl(url, {format: 'xmljs'})
+  // var answer = response.response.body.items.item
   
   const url_info = config.get('urlinfo') + '?serviceKey='+ service_key + '&item_name='+ name_utf
   var res_info=http.getUrl(url_info, {format: 'xmljs'})

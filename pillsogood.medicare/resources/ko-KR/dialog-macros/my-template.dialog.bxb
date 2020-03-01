@@ -1,3 +1,18 @@
+template-macro-def (old) {
+  params {
+    param (pill) {
+      type (TabooInfo)
+    }
+  }
+  content {
+    if (pill.status != 'no result') {
+      template("#{value(pill.message)}")
+    } else {
+      template("#{value(pill.name)}에 대한 약 정보가 없어요.")
+    }
+  }
+}
+
 template-macro-def (info) {
   params {
     param (pill) {
@@ -16,3 +31,4 @@ template-macro-def (info) {
     }
   }
 }
+

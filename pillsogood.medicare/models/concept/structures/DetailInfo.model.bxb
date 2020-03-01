@@ -52,4 +52,8 @@ structure (DetailInfo) {
     type(Material)
     min (Optional) max (Many)
   }
+  property (status) {
+    type(Status)
+    min(Optional)
+  }
 }

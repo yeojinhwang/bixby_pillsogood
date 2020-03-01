@@ -1,0 +1,3 @@
+text (Status) {
+  description (사용자가 실제 약물명을 발화했는지 검토)
+}

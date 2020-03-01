@@ -32,4 +32,8 @@ structure (TabooInfo) {
     type (Message)
     min (Optional) max (Many)
   }
+  property (status) {
+    type(Status)
+    min(Optional)
+  }
 }
