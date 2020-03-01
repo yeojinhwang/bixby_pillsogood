@@ -34,7 +34,7 @@ result-view {
           if (status == 'no result') {
             paragraph {
               value {
-                template("약 이름을 함께 말씀해 주세요.")
+                template("복약 이름을 함께 말씀해 주세요.")
               }
               style (Title_S)
             }

@@ -23,7 +23,22 @@ template-macro-def (pregnant) {
     if (pill.status != 'no result') {
       template("#{value(pill.message)}")
     } else {
-      template("#{value(pill.name)}에 대한 약 정보가 없어요.")
+      template("검색 결과가 없습니다.")
+    }
+  }
+}
+
+template-macro-def (combined) {
+  params {
+    param (pill) {
+      type (TabooInfo)
+    }
+  }
+  content {
+    if (pill.status != 'no result') {
+      template("#{value(pill.message)}")
+    } else {
+      template("검색 결과가 없어요.")
     }
   }
 }
