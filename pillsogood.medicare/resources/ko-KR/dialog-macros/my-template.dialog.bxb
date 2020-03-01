@@ -43,6 +43,21 @@ template-macro-def (combined) {
   }
 }
 
+template-macro-def (combinedList) {
+  params {
+    param (pill) {
+      type (TabooInfo)
+    }
+  }
+  content {
+    if (pill.status != 'no result') {
+      template("#{value(pill.message)}")
+    } else {
+      template("검색 결과가 없어요.")
+    }
+  }
+}
+
 template-macro-def (info) {
   params {
     param (pill) {
